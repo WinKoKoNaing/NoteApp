@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Note Book App</string>
+    <string name="content">jdfajldjfkljak jdklfjalksdjflkajsldjflka jsdkljfalkjdfljalskdfjlasj dldjjfkl jaslkdjfk jasjfdlja lsjdfljjsjdfljalsdjflja lksdjflkaj;sdlfkj;lasjdfljasdlkfjl;as jdklfjlasjd fljlksajl dfjas;lkdjf;l sjad;lfjd ;lasjdf;lk jsl;dfj ;lsdj kl;sjfd; djf lasjdifjskljf dlkjsa;ljdf;l ajs;ldjf aksjdf;lajs;ldfjflkajfiwdkfnsnl</string>
+    <string name="pyay">Home >> Bago Attractions >> Pyay
+Pyay
+In Myanmar, Pyay is quiet, stupa-studded Myanmar Ayeyarwaddy river side town, 294km north of Yangon Myanmar. Pyay is at the cross roads for bumpy bus rides west to Ngapali Beach in Myanmar, and less bumpy bus rides north to Bagan main Myanmar tourist place. Over the years it’s practically seen more archaeologists than travelers, due to the much-excavated ancient Pyu capital of Myanmar Thayekhittaya, 8km east. But Pyay can fill a good day, with the ruins, hilltop Myanmar pagodas the famous, lt at night, and a spectacled Buddha south town. Locals alternate the town’s pronunciation between “pyay” and “pyi”. The Brits, apparently, couldn’t deal with the confusion so called it Prome in Myanmar.
+
+The current town site became an important trading centre during the Bagan era. The Mon controlled it when Burmese king Alaungpaya conquered it in 1754. Pyay boomed, along with the British Irrawaddy Flotilla Company in the 1890s. Today it’s an important cargo town in Myanmar, set at a transshipment point between northern and southern Myanmar.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_pick">Image Pick</string>
+    <string name="save">Save</string>
+    <string name="pick_up_image">Pick Up Image</string>
+    <string name="save_something">save something ...</string>
+    <string name="toolbar_image">Toolbar Image</string>
+</resources>
